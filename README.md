@@ -1,1 +1,1 @@
-https://github.com/alexkov229/posmotri-v-okno-ad-main/new/main
+https://github.com/alexkov229/posmotri-v-okno-ad/new/main
